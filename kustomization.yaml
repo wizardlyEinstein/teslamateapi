@@ -1,0 +1,12 @@
+namespace: teslamateapi 
+
+images:
+- name: lelandsindt/teslamateapi 
+  newName: tobiasehlert/teslamateapi
+  newTag: bug-8 
+
+resources:
+- manifest.yaml
+
+generators:
+- secrets.yaml
