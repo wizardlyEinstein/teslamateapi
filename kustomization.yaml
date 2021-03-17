@@ -2,8 +2,7 @@ namespace: teslamateapi
 
 images:
 - name: lelandsindt/teslamateapi 
-  newName: tobiasehlert/teslamateapi
-  newTag: bug-8 
+  newName: tobiasehlert/teslamateapi@sha256:7d9498c5a5da079229654fc30d859bce6b90dba099b282ad9d06f6ec634eb040 
 
 resources:
 - manifest.yaml
