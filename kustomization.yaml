@@ -2,7 +2,7 @@ namespace: teslamateapi
 
 images:
 - name: lelandsindt/teslamateapi 
-  newName: lelandsindt/teslamateapi:3535cdc404a8e9375f9ea8755d49a4e16ebf0a8c 
+  newName: lelandsindt/teslamateapi:18c84647691259e37bf1b6e974d0a8b6c124801b
 
 resources:
 - manifest.yaml
