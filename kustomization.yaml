@@ -2,7 +2,7 @@ namespace: teslamateapi
 
 images:
 - name: lelandsindt/teslamateapi 
-  newName: tobiasehlert/teslamateapi:v1.7.0
+  newName: tobiasehlert/teslamateapi:v1.11.0
 
 resources:
 - manifest.yaml
